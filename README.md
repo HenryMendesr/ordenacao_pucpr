@@ -42,4 +42,30 @@ javac Main.java
 java Main
 ```
 
-Saida esperada (valores iguais aos da tabela).
+##Saida esperada:
+```
+==== vetor1 ====
+Comb Sort -> swaps=22 loops=138
+Gnome Sort -> swaps=78 loops=176
+Bucket Sort -> swaps=0 loops=84
+Bubble (flag) -> swaps=78 loops=195
+Selection -> swaps=18 loops=209
+Cocktail -> swaps=78 loops=160
+
+==== vetor2 ====
+Comb Sort -> swaps=0 loops=118
+Gnome Sort -> swaps=0 loops=20
+Bucket Sort -> swaps=0 loops=82
+Bubble (flag) -> swaps=0 loops=20
+Selection -> swaps=0 loops=209
+Cocktail -> swaps=0 loops=20
+
+==== vetor3 ====
+Comb Sort -> swaps=18 loops=138
+Gnome Sort -> swaps=190 loops=400
+Bucket Sort -> swaps=0 loops=108
+Bubble (flag) -> swaps=190 loops=209
+Selection -> swaps=10 loops=209
+Cocktail -> swaps=190 loops=200
+```
+
