@@ -1,4 +1,4 @@
-# Comparacao de Algoritmos de Ordenacao (sem estruturas prontas)
+# Comparacao de Algoritmos de Ordenacao 
 
 Algoritmos implementados em Java **sem** uso de estruturas prontas (List, ArrayList, Map, etc.) e **sem** bibliotecas externas:
 - Comb Sort
